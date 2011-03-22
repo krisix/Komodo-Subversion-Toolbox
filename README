@@ -8,6 +8,9 @@ Release-date: 2011-03-22
 Notes:
 Developed with Komodo Edit 6.1.1 (build 7295) but should work with older versions too.
 
+Requirements:
+Subversion client installed on machine.
+
 Installation:
 1. Download master branch from https://github.com/krisix/Komodo-Subversion-Toolbox/archives/master
 2. Extract files.
