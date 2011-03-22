@@ -12,8 +12,16 @@ Installation:
 1. Download master branch from https://github.com/krisix/Komodo-Subversion-Toolbox/archives/master
 2. Extract files.
 3. Open Komodo and right click in the Toolbox Pane - choose Import/Export -> Import Folder from File System.
-4. Selected destination folder with Komodo Subversion Toolbox extracted files.
+4. Select destination folder with Komodo Subversion Toolbox extracted files.
 
 Usage:
-1. Show Toolbox Pane and unfold Subversion folder.
+1. Display Toolbox Pane and unfold Subversion folder.
 2. Run any command you need.
+
+Supported Subversion commands:
+- SVN Add - add new file to repo
+- SVN CheckIn - commit changes to repo on file
+- SVN Lock - lock file
+- SVN Property Need-Lock - sets svn:needs-lock property on file
+- SVN Unlock - unlock file
+- SVN Update - update current directory based on file
