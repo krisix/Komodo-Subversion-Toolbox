@@ -1,9 +1,19 @@
 Komodo Edit Subversion Toolbox.
 
-Author: Krzysztof Wolski
-E-mail: krzysztof.wolski[(hosted at)]gmail.com
-
+Author:       Krzysztof Wolski
+E-mail:       krzysztof.wolski[(hosted at)]gmail.com
+Version:      0.1
+Release-date: 2011-03-22
 
 Notes:
-
 Developed with Komodo Edit 6.1.1 (build 7295) but should work with older versions too.
+
+Installation:
+1. Download master branch from https://github.com/krisix/Komodo-Subversion-Toolbox/archives/master
+2. Extract files.
+3. Open Komodo and right click in the Toolbox Pane - choose Import/Export -> Import Folder from File System.
+4. Selected destination folder with Komodo Subversion Toolbox extracted files.
+
+Usage:
+1. Show Toolbox Pane and unfold Subversion folder.
+2. Run any command you need.
