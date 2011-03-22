@@ -1,0 +1,19 @@
+{
+  "insertOutput": 0, 
+  "parseRegex": "", 
+  "doNotOpenOutputWindow": 0, 
+  "icon": "chrome://fugue/skin/icons/application--pencil.png", 
+  "keyboard_shortcut": "", 
+  "name": "SVN Lock", 
+  "operateOnSelection": 0, 
+  "value": [
+    "svn lock %F"
+  ], 
+  "cwd": "", 
+  "version": "1.0.7", 
+  "env": "", 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "parseOutput": 0, 
+  "runIn": "new-console"
+}

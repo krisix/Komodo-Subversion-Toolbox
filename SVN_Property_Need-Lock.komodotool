@@ -1,0 +1,19 @@
+{
+  "insertOutput": 0, 
+  "keyboard_shortcut": "", 
+  "name": "SVN Property Need-Lock", 
+  "parseRegex": "", 
+  "operateOnSelection": 0, 
+  "value": [
+    "svn propset svn:needs-lock \"on\" %F"
+  ], 
+  "parseOutput": 0, 
+  "version": "1.0.7", 
+  "env": "", 
+  "doNotOpenOutputWindow": 0, 
+  "icon": "chrome://fugue/skin/icons/application-detail.png", 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "cwd": "", 
+  "runIn": "command-output-window"
+}
