@@ -2,8 +2,8 @@ Komodo Edit Subversion Toolbox.
 
 Author:       Krzysztof Wolski
 E-mail:       krzysztof.wolski[(hosted at)]gmail.com
-Version:      0.1
-Release-date: 2011-03-22
+Version:      0.2
+Release-date: 2011-03-24
 
 Notes:
 Developed with Komodo Edit 6.1.1 (build 7295) but should work with older versions too.
@@ -23,7 +23,9 @@ Usage:
 
 Supported Subversion commands:
 - SVN Add - add new file to repo
+- SVN Add Directory - add directory
 - SVN CheckIn - commit changes to repo on file
+- SVN Delete - delete file
 - SVN Lock - lock file
 - SVN Property Need-Lock - sets svn:needs-lock property on file
 - SVN Unlock - unlock file

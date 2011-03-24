@@ -1,19 +1,18 @@
 {
   "insertOutput": 0, 
-  "parseRegex": "", 
-  "name": "SVN Add", 
   "keyboard_shortcut": "", 
+  "name": "SVN Delete", 
+  "parseRegex": "", 
   "runIn": "command-output-window", 
   "operateOnSelection": 0, 
   "value": [
     "svn add %F"
   ], 
-  "parseOutput": 0, 
-  "version": "1.0.7", 
+  "cwd": "", 
   "env": "", 
   "doNotOpenOutputWindow": 0, 
   "showParsedOutputList": 0, 
   "type": "command", 
-  "cwd": "", 
-  "icon": "chrome://fugue/skin/icons/application--plus.png"
+  "parseOutput": 0, 
+  "icon": "chrome://fugue/skin/icons/application--minus.png"
 }
